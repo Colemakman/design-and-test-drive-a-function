@@ -4,7 +4,10 @@ Copy this into a `recipe.md` in your project and fill it out.
 
 ## 1. Describe the Problem
 
-_Put or write the user story here. Add any clarifying notes you might have._
+# As a user
+# So that I can find my tasks among all my notes
+# I want to check if a line from my notes includes the string `#TODO`.
+
 
 ## 2. Design the Function Signature
 
